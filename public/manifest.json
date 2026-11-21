@@ -1,0 +1,19 @@
+{
+  "name": "CotoPass",
+  "short_name": "CotoPass",
+  "description": "Sistema inteligente de control de acceso para comunidades privadas y residenciales.",
+  "lang": "es-MX",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#09090b",
+  "background_color": "#fafafa",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
